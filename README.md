@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+-Currently working on personal profile with new and exciting projects to share!
+
 <!--
 **JillisaJeffery/JillisaJeffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
