@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ohai!👋
 
 -Currently working on personal profile with new and exciting projects to share!
 
